@@ -1,0 +1,16 @@
+.img{
+    height: 500px;
+    position: relative;
+}
+.text-start{
+    position: absolute;
+    margin-top: -350px;
+}
+.bottom{
+    background-color: rgb(59, 7, 204);
+    height: 200px;
+}
+.last{
+    background-color: black;
+    height: 130px;
+}
